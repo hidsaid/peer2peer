@@ -1,8 +1,8 @@
-#🎓1337 Student Guide
-📜 About
+# 🎓 1337 Student Guide
+# #📜 About
 The 1337 Student Guide is a web application designed to help new students navigate their journey at 1337. It provides comprehensive guides for various projects, contributed by students who have completed them. The platform allows any student to submit a guide, ensuring an ever-growing knowledge base.
 
-Key Features:
+## Key Features:
 ✅ Login via 42 API authentication 🔑
 ✅ Browse project guides 📚
 ✅ Upload and share your own guides 📤
@@ -11,7 +11,7 @@ Key Features:
 🌍 Website URL
 🚧 Currently not hosted. We are working on deployment.
 
-#⚙️ Installation Guide
+## ⚙️ Installation Guide
 🛠 Prerequisites
 Ensure you have the following installed:
 
@@ -39,4 +39,6 @@ php artisan serve
 
 🤝 #Peer-to-Peer Learning
 Our platform is built around the peer-to-peer learning philosophy at 1337, where students help each other succeed through knowledge sharing! 🚀
+
+# Screeshots
 
