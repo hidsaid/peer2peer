@@ -56,12 +56,22 @@ php artisan migrate
 php artisan serve
 ```
 ## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/cba2e3f8-d8fe-455a-8454-9326447c757f)
+
+![image](https://github.com/user-attachments/assets/e8676cf0-46a1-445e-8280-3d27242d8816)
+
 ![image](https://github.com/user-attachments/assets/e2a26b62-f5e8-4e6d-94a2-f1918510eab3)
 
 ![image](https://github.com/user-attachments/assets/c4021597-e26e-4900-a328-a1a90d5b91e7)
-![image](https://github.com/user-attachments/assets/098df964-85ee-4016-b779-79f26d767b28)
+
+![image](https://github.com/user-attachments/assets/47d8c592-3966-4dcf-bd6a-2155f35c3b0b)
 
 ![image](https://github.com/user-attachments/assets/10614a01-f9ae-4729-bda2-26434d7da493)
 
+![image](https://github.com/user-attachments/assets/a15db8c6-8ed7-44f0-b80b-fdc9620348ab)
 
+![image](https://github.com/user-attachments/assets/88f0e0fa-33d7-4200-92f6-453d95b0fcdf)
+
+![image](https://github.com/user-attachments/assets/cb433127-5ecc-4303-8112-08c08c47983c)
 
