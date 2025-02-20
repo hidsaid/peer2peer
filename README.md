@@ -59,7 +59,7 @@ php artisan serve
 
 ![image](https://github.com/user-attachments/assets/e2a26b62-f5e8-4e6d-94a2-f1918510eab3)
 
-![image](https://github.com/user-attachments/assets/c4021597-e26e-4900-a328-a1a90d5b91e7)
+![image](https://github.com/user-attachments/assets/bc43da72-3fd2-4c66-8fbe-2867ad649a9f)
 
 ![image](https://github.com/user-attachments/assets/47d8c592-3966-4dcf-bd6a-2155f35c3b0b)
 
