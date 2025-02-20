@@ -41,3 +41,20 @@ cd 1337-student-guide
 composer install
 npm install
 ```
+
+3️⃣ **Set Up Environment Variables**
+```bash
+cp .env.example .env
+```
+5️⃣ **Run Database Migrations**
+```bash
+php artisan migrate
+```
+
+6️⃣ **Start the Development Server**
+```bash
+php artisan serve
+```
+## 📷 Screenshots
+
+
