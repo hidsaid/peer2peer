@@ -58,5 +58,10 @@ php artisan serve
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/e2a26b62-f5e8-4e6d-94a2-f1918510eab3)
 
+![image](https://github.com/user-attachments/assets/c4021597-e26e-4900-a328-a1a90d5b91e7)
+![image](https://github.com/user-attachments/assets/098df964-85ee-4016-b779-79f26d767b28)
+
+![image](https://github.com/user-attachments/assets/10614a01-f9ae-4729-bda2-26434d7da493)
+
 
 
