@@ -35,3 +35,9 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/your-repo/1337-student-guide.git
 cd 1337-student-guide
+```
+2️⃣ **Install Dependencies**
+```bash
+composer install
+npm install
+```
