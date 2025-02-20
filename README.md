@@ -56,5 +56,7 @@ php artisan migrate
 php artisan serve
 ```
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/e2a26b62-f5e8-4e6d-94a2-f1918510eab3)
+
 
 
