@@ -42,10 +42,6 @@ composer install
 npm install
 ```
 
-3️⃣ **Set Up Environment Variables**
-```bash
-cp .env.example .env
-```
 5️⃣ **Run Database Migrations**
 ```bash
 php artisan migrate
